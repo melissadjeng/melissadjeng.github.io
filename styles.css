@@ -1,0 +1,14 @@
+.main_wrapper {color:skyblue;
+  font-size:15px; 
+  background-color:cornflowerblue; 
+  text-shadow:2px
+    2px olivedrab;
+  border:3px solid green;
+  padding:5px
+}
+#details {color:tomato
+}
+#list{color: steelblue}
+#name{color:rebeccapurple}
+
+/*hello*/
